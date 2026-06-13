@@ -4,11 +4,15 @@
 <!--                        ANIMATED HEADER                             -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:7c3aed,100:4c1d95&height=200&section=header&text=Paras%20Khutwad&fontSize=52&fontColor=e9d5ff&fontAlignY=38&desc=Statistics%20Student%20%E2%80%A2%20AI%20%26%20ML%20Builder%20%E2%80%A2%20Aspiring%20AI%20Engineer&descSize=16&descAlignY=60&descColor=c4b5fd&animation=fadeIn" width="100%" />
+![header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=6d28d9&center=true&vCenter=true&repeat=false&width=900&height=20&lines=.)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&pause=99999&color=c4b5fd&center=true&vCenter=true&repeat=false&width=900&height=70&lines=Paras+Khutwad" alt="Paras Khutwad" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=99999&color=a78bfa&center=true&vCenter=true&repeat=false&width=900&height=30&lines=Statistics+Student+%E2%80%A2+AI+%26+ML+Builder+%E2%80%A2+Aspiring+AI+Engineer" alt="subtitle" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=B.Sc.+Statistics+%40+Modern+College%2C+Pune;Building+AI+%26+ML+Projects+from+Scratch;Exploring+Agentic+AI+%26+RAG+Systems;Learning+Computer+Vision+%26+Deep+Learning;Turning+Statistics+into+Intelligent+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=B.Sc.+Statistics+%40+Modern+College%2C+Pune;Building+AI+%26+ML+Projects+from+Scratch;Exploring+Agentic+AI+%26+RAG+Systems;Learning+Computer+Vision+%26+Deep+Learning;Turning+Statistics+into+Intelligent+Systems)](https://git.io/typing-svg)
 
 <br/>
 
@@ -26,9 +30,9 @@
 <!--                          ABOUT ME                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Student.png" alt="Student" width="30" height="30" /> &nbsp; About Me
+## 🎓 &nbsp; About Me
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="120" alt="Laptop"/>
+<div align="center">
 
 ```python
 class Paras:
@@ -37,7 +41,7 @@ class Paras:
     alias       = "paras-the-coder"
     status      = "B.Sc. Statistics Student @ Modern College, Pune"
     role        = "Aspiring AI Engineer | Builder | Learner"
-    
+
     currently   = [
         "Building Agentic AI & RAG systems",
         "Exploring LangGraph & multi-agent pipelines",
@@ -53,11 +57,12 @@ class Paras:
     ]
 
     superpower  = "Statistics background → ML fundamentals ✓"
-    
-    fun_fact    = "I use probability theory before I even write a line of code."
+    fun_fact    = "I use probability theory before I write a single line of code."
 ```
 
-<br clear="right"/>
+</div>
+
+<br/>
 
 ---
 
@@ -65,7 +70,7 @@ class Paras:
 <!--                         TECH STACK                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="28" height="28" /> &nbsp; Tech Stack
+## ⚙️ &nbsp; Tech Stack
 
 <div align="center">
 
@@ -111,7 +116,7 @@ class Paras:
 <!--                    AI / ML LEARNING AREAS                          -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="Brain" width="28" height="28" /> &nbsp; AI / ML Learning Areas
+## 🧠 &nbsp; AI / ML Learning Areas
 
 <div align="center">
 
@@ -132,7 +137,7 @@ class Paras:
 <!--                      FEATURED PROJECTS                             -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" height="28" /> &nbsp; Featured Projects
+## 🚀 &nbsp; Featured Projects
 
 <div align="center">
 
@@ -195,10 +200,10 @@ class Paras:
 <!--                   CURRENT LEARNING FOCUS                           -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="28" height="28" /> &nbsp; Current Learning Focus
+## 📖 &nbsp; Current Learning Focus
 
 ```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  LangGraph & Multi-Agent Systems      80%
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  LangGraph & Multi-Agent Systems       80%
 ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░  Retrieval-Augmented Generation (RAG)  65%
 ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░  Machine Learning (Classical + Tree)   60%
 ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░  Deep Learning & Computer Vision       50%
@@ -214,7 +219,7 @@ class Paras:
 <!--                      GITHUB ANALYTICS                              -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="28" height="28" /> &nbsp; GitHub Analytics
+## 📊 &nbsp; GitHub Analytics
 
 <div align="center">
 
@@ -234,7 +239,7 @@ class Paras:
 <!--                      GITHUB TROPHIES                               -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="28" height="28" /> &nbsp; GitHub Trophies
+## 🏆 &nbsp; GitHub Trophies
 
 <div align="center">
 
@@ -248,7 +253,7 @@ class Paras:
 <!--                    CONTRIBUTION ACTIVITY                           -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Activity" width="28" height="28" /> &nbsp; Contribution Activity
+## 📈 &nbsp; Contribution Activity
 
 <div align="center">
 
@@ -262,7 +267,7 @@ class Paras:
 <!--                      SNAKE ANIMATION                               -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="28" height="28" /> &nbsp; Contribution Snake
+## 🐍 &nbsp; Contribution Snake
 
 <div align="center">
 
@@ -280,7 +285,7 @@ class Paras:
 <!--                          CONNECT                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="28" height="28" /> &nbsp; Connect With Me
+## 👋 &nbsp; Connect With Me
 
 <div align="center">
 
@@ -306,7 +311,8 @@ class Paras:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:7c3aed,100:6d28d9&height=120&section=footer&text=Building%20one%20model%20at%20a%20time%20%E2%80%94%20from%20statistics%20to%20intelligence&fontSize=14&fontColor=ddd6fe&fontAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=99999&color=6d28d9&center=true&vCenter=true&repeat=false&width=700&height=40&lines=Building+one+model+at+a+time+%E2%80%94+from+statistics+to+intelligence." alt="footer" />
+
+![footer-line](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=4c1d95&center=true&vCenter=true&repeat=false&width=900&height=16&lines=.)
 
 </div>
-
