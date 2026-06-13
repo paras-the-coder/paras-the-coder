@@ -5,7 +5,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=4000&pause=99999&color=a78bfa&center=true&vCenter=true&repeat=false&width=900&height=35&lines=Statistics+Student+%E2%80%A2+AI+%26+ML+Builder+%E2%80%A2+Aspiring+AI+Engineer" alt="subtitle" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=4000&pause=99999&color=7c3aed&center=true&vCenter=true&repeat=false&width=900&height=30&lines=Building+AI+%26+ML+Projects+from+Scratch" alt="tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=4000&pause=99999&color=7c3aed&center=true&vCenter=true&repeat=false&width=900&height=30&lines=Learning+by+Building+AI%2C+ML+and+Data+Science+Projects" alt="tagline" />
 
 <br/>
 
@@ -48,9 +48,6 @@ class Paras:
         "Computer Vision & Deep Learning",
         "Generative AI & LLMs",
     ]
-
-    superpower = "Statistics background → ML fundamentals ✓"
-    fun_fact   = "I reach for probability theory before I write a single line of code."
 ```
 
 <br/>
@@ -66,8 +63,7 @@ class Paras:
 ![Python](https://img.shields.io/badge/Python-1e1b4b?style=for-the-badge&logo=python&logoColor=a78bfa)
 ![SQL](https://img.shields.io/badge/SQL-1e1b4b?style=for-the-badge&logo=postgresql&logoColor=a78bfa)
 ![HTML5](https://img.shields.io/badge/HTML5-1e1b4b?style=for-the-badge&logo=html5&logoColor=a78bfa)
-![CSS3](https://img.shields.io/badge/CSS3-1e1b4b?style=for-the-badge&logo=css3&logoColor=a78bfa)
-![JavaScript](https://img.shields.io/badge/JavaScript-1e1b4b?style=for-the-badge&logo=javascript&logoColor=a78bfa)
+
 
 **AI / ML / Data**
 
@@ -90,7 +86,6 @@ class Paras:
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-1e1b4b?style=for-the-badge&logo=fastapi&logoColor=a78bfa)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1e1b4b?style=for-the-badge&logo=streamlit&logoColor=a78bfa)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1e1b4b?style=for-the-badge&logo=tailwindcss&logoColor=a78bfa)
 ![Git](https://img.shields.io/badge/Git-1e1b4b?style=for-the-badge&logo=git&logoColor=a78bfa)
 ![GitHub](https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=a78bfa)
 ![VS Code](https://img.shields.io/badge/VS_Code-1e1b4b?style=for-the-badge&logo=visualstudiocode&logoColor=a78bfa)
@@ -176,14 +171,33 @@ A CNN-based image classification system that detects defects in solar panels usi
 
 <div align="center">
 
-| Skill | Progress |
-|:---|:---|
-| 🔗 LangGraph & Multi-Agent Systems | `████████████████░░░░` 80% |
-| 📚 Retrieval-Augmented Generation | `█████████████░░░░░░░` 65% |
-| 🤖 Machine Learning (Classical + Tree) | `████████████░░░░░░░░` 60% |
-| 👁️ Deep Learning & Computer Vision | `██████████░░░░░░░░░░` 50% |
-| ⚡ FastAPI & AI Backend Development | `████████░░░░░░░░░░░░` 40% |
-| 🔮 Generative AI & Prompt Engineering | `██████░░░░░░░░░░░░░░` 30% |
+```yaml
+Currently Learning:
+  - LangGraph & Agentic AI
+  - Retrieval-Augmented Generation
+  - Machine Learning
+  - Deep Learning & Computer Vision
+  - FastAPI & AI Backend Development
+  - Prompt Engineering
+```
+
+</div>
+
+<br/>
+
+---
+
+## 🎯 Current Goal
+
+<div align="center">
+
+```yaml
+Current Goal:
+  - Secure an AI/ML Internship
+  - Improve Machine Learning Skills
+  - Build Production-Ready AI Systems
+  - Contribute to Open Source Projects
+```
 
 </div>
 
@@ -204,18 +218,6 @@ A CNN-based image classification system that detects defects in solar panels usi
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=paras-the-coder&theme=transparent&background=0d0a1e&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=ddd6fe&currStreakNum=e9d5ff&sideNums=e9d5ff&dates=a78bfa&border=4c1d95&border_radius=12" />
-
-</div>
-
-<br/>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=paras-the-coder&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 
 </div>
 
