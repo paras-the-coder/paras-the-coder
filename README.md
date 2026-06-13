@@ -1,18 +1,15 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                        ANIMATED HEADER                             -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=48&duration=4000&pause=99999&color=c4b5fd&center=true&vCenter=true&repeat=false&width=900&height=80&lines=Paras+Khutwad" alt="Paras Khutwad" />
 
-![header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=6d28d9&center=true&vCenter=true&repeat=false&width=900&height=20&lines=.)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=4000&pause=99999&color=a78bfa&center=true&vCenter=true&repeat=false&width=900&height=35&lines=Statistics+Student+%E2%80%A2+AI+%26+ML+Builder+%E2%80%A2+Aspiring+AI+Engineer" alt="subtitle" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&pause=99999&color=c4b5fd&center=true&vCenter=true&repeat=false&width=900&height=70&lines=Paras+Khutwad" alt="Paras Khutwad" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=99999&color=a78bfa&center=true&vCenter=true&repeat=false&width=900&height=30&lines=Statistics+Student+%E2%80%A2+AI+%26+ML+Builder+%E2%80%A2+Aspiring+AI+Engineer" alt="subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=4000&pause=99999&color=7c3aed&center=true&vCenter=true&repeat=false&width=900&height=30&lines=Building+AI+%26+ML+Projects+from+Scratch" alt="tagline" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=B.Sc.+Statistics+%40+Modern+College%2C+Pune;Building+AI+%26+ML+Projects+from+Scratch;Exploring+Agentic+AI+%26+RAG+Systems;Learning+Computer+Vision+%26+Deep+Learning;Turning+Statistics+into+Intelligent+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=B.Sc.+Statistics+%40+Modern+College%2C+Pune;Exploring+Agentic+AI+%26+RAG+Systems;Building+Computer+Vision+Projects;Turning+Statistics+into+Intelligent+Systems;Seeking+AI%2FML+Internship+Opportunities)](https://github.com/paras-the-coder)
 
 <br/>
 
@@ -26,51 +23,41 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                          ABOUT ME                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## 🎓 &nbsp; About Me
-
-<div align="center">
+## 🎓 About Me
 
 ```python
 class Paras:
 
-    name        = "Paras Khutwad"
-    alias       = "paras-the-coder"
-    status      = "B.Sc. Statistics Student @ Modern College, Pune"
-    role        = "Aspiring AI Engineer | Builder | Learner"
+    name       = "Paras Khutwad"
+    alias      = "paras-the-coder"
+    status     = "B.Sc. Statistics Student @ Modern College, Pune"
+    role       = "Aspiring AI Engineer | Builder | Learner"
 
-    currently   = [
+    currently  = [
         "Building Agentic AI & RAG systems",
         "Exploring LangGraph & multi-agent pipelines",
         "Studying Machine Learning & Deep Learning",
         "Developing Computer Vision projects",
-        "Seeking AI/ML internship opportunities",
+        "Seeking remote AI/ML internship opportunities",
     ]
 
-    interests   = [
-        "Agentic AI", "Retrieval-Augmented Generation",
-        "Fraud Detection", "Computer Vision",
-        "Predictive Analytics", "Generative AI",
+    interests  = [
+        "Agentic AI",
+        "Retrieval-Augmented Generation (RAG)",
+        "Fraud Detection & Predictive Analytics",
+        "Computer Vision & Deep Learning",
+        "Generative AI & LLMs",
     ]
 
-    superpower  = "Statistics background → ML fundamentals ✓"
-    fun_fact    = "I use probability theory before I write a single line of code."
+    superpower = "Statistics background → ML fundamentals ✓"
+    fun_fact   = "I reach for probability theory before I write a single line of code."
 ```
-
-</div>
 
 <br/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                         TECH STACK                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## ⚙️ &nbsp; Tech Stack
+## ⚙️ Tech Stack
 
 <div align="center">
 
@@ -86,7 +73,7 @@ class Paras:
 
 ![Pandas](https://img.shields.io/badge/Pandas-1e1b4b?style=for-the-badge&logo=pandas&logoColor=c4b5fd)
 ![NumPy](https://img.shields.io/badge/NumPy-1e1b4b?style=for-the-badge&logo=numpy&logoColor=c4b5fd)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1e1b4b?style=for-the-badge&logo=scikitlearn&logoColor=c4b5fd)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-1e1b4b?style=for-the-badge&logo=scikitlearn&logoColor=c4b5fd)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-1e1b4b?style=for-the-badge&logo=tensorflow&logoColor=c4b5fd)
 ![Keras](https://img.shields.io/badge/Keras-1e1b4b?style=for-the-badge&logo=keras&logoColor=c4b5fd)
 ![OpenCV](https://img.shields.io/badge/OpenCV-1e1b4b?style=for-the-badge&logo=opencv&logoColor=c4b5fd)
@@ -110,18 +97,16 @@ class Paras:
 
 </div>
 
+<br/>
+
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    AI / ML LEARNING AREAS                          -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## 🧠 &nbsp; AI / ML Learning Areas
+## 🧠 AI / ML Learning Areas
 
 <div align="center">
 
 | Domain | What I'm Exploring |
-|---|---|
+|:---|:---|
 | 🤖 **Agentic AI** | LangGraph state machines, multi-agent orchestration, self-critique loops |
 | 📚 **RAG Systems** | Hybrid retrieval, vector search, Pinecone, semantic chunking |
 | 🧠 **Machine Learning** | Classification, SMOTE, XGBoost, explainability with SHAP |
@@ -131,101 +116,90 @@ class Paras:
 
 </div>
 
+<br/>
+
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                      FEATURED PROJECTS                             -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## 🚀 &nbsp; Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
-<!-- PROJECT 1 -->
 <a href="https://github.com/paras-the-coder/Agentic-Hybrid-RAG">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=paras-the-coder&repo=Agentic-Hybrid-RAG&theme=transparent&bg_color=0d0a1e&title_color=c4b5fd&text_color=ddd6fe&icon_color=7c3aed&border_color=4c1d95&border_radius=12" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=paras-the-coder&repo=Agentic-Hybrid-RAG&theme=transparent&bg_color=0d0a1e&title_color=c4b5fd&text_color=ddd6fe&icon_color=7c3aed&border_color=4c1d95&border_radius=12" />
 </a>
 
 </div>
 
-<br/>
+**🧠 Agentic Hybrid RAG Assistant** — *My most technically differentiated project*
 
-> **🧠 Agentic Hybrid RAG Assistant** &nbsp;|&nbsp; *My most technically differentiated project*
->
-> An agentic retrieval system built with **LangGraph** that goes beyond standard RAG. Features a **self-critique loop** that evaluates its own responses before returning them, **hybrid retrieval** (dense + sparse), **Pinecone** vector storage, **Tavily** live web search fallback, **Groq Llama-3.3-70B** inference, and a **FastAPI + SSE streaming** backend. Multi-document support with persistent memory across turns.
->
-> `LangGraph` `LangChain` `Pinecone` `Groq` `FastAPI` `Tavily` `HuggingFace` `Agentic RAG` `SSE Streaming`
+An agentic retrieval system built with **LangGraph** that goes beyond standard RAG. Features a **self-critique loop** that evaluates its own answers before returning them, **hybrid retrieval** (dense + sparse), **Pinecone** vector storage, **Tavily** live web-search fallback, **Groq Llama-3.3-70B** inference, and a **FastAPI + SSE streaming** backend. Supports multiple documents with persistent memory across turns.
+
+`LangGraph` `LangChain` `Pinecone` `Groq` `FastAPI` `Tavily` `HuggingFace` `SSE Streaming`
 
 ---
 
 <div align="center">
 
-<!-- PROJECT 2 -->
 <a href="https://github.com/paras-the-coder/FraudGuard-Ai">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=paras-the-coder&repo=FraudGuard-Ai&theme=transparent&bg_color=0d0a1e&title_color=c4b5fd&text_color=ddd6fe&icon_color=7c3aed&border_color=4c1d95&border_radius=12" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=paras-the-coder&repo=FraudGuard-Ai&theme=transparent&bg_color=0d0a1e&title_color=c4b5fd&text_color=ddd6fe&icon_color=7c3aed&border_color=4c1d95&border_radius=12" />
 </a>
 
 </div>
 
-<br/>
+**🛡️ FraudGuard AI** — *Insurance fraud detection with ML explainability*
 
-> **🛡️ FraudGuard AI** &nbsp;|&nbsp; *Insurance fraud detection with ML explainability*
->
-> A fraud detection system trained on insurance claims data. Implements **XGBoost** and **Logistic Regression** with **SMOTE** for class imbalance. Includes real **SHAP explainability** to surface which features drive each prediction, a **risk scoring engine**, and a **Streamlit dashboard** for interactive claim analysis.
->
-> `XGBoost` `Scikit-Learn` `SMOTE` `SHAP` `Pandas` `NumPy` `Streamlit` `Feature Engineering`
+A fraud detection system trained on insurance claims data. Implements **XGBoost** and **Logistic Regression** with **SMOTE** for class imbalance, real **SHAP explainability** to surface which features drive each prediction, a **risk scoring engine**, and an interactive **Streamlit dashboard**.
+
+`XGBoost` `Scikit-Learn` `SMOTE` `SHAP` `Pandas` `NumPy` `Streamlit` `Feature Engineering`
 
 ---
 
 <div align="center">
 
-<!-- PROJECT 3 -->
 <a href="https://github.com/paras-the-coder/Solar-Panel-Defect-Classification">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=paras-the-coder&repo=Solar-Panel-Defect-Classification&theme=transparent&bg_color=0d0a1e&title_color=c4b5fd&text_color=ddd6fe&icon_color=7c3aed&border_color=4c1d95&border_radius=12" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=paras-the-coder&repo=Solar-Panel-Defect-Classification&theme=transparent&bg_color=0d0a1e&title_color=c4b5fd&text_color=ddd6fe&icon_color=7c3aed&border_color=4c1d95&border_radius=12" />
 </a>
 
 </div>
 
+**☀️ Solar Panel Defect Classification** — *Computer Vision for clean energy*
+
+A CNN-based image classification system that detects defects in solar panels using **transfer learning with ResNet50**. Built on **TensorFlow/Keras**, preprocessed with **OpenCV**, deployed live on **Streamlit Cloud**.
+
+`ResNet50` `TensorFlow` `Keras` `OpenCV` `Transfer Learning` `Streamlit` `Image Classification`
+
 <br/>
 
-> **☀️ Solar Panel Defect Classification** &nbsp;|&nbsp; *Computer Vision for clean energy*
->
-> A CNN-based image classification system that identifies defects in solar panels using **transfer learning with ResNet50**. Built on **TensorFlow/Keras**, preprocessed with **OpenCV**, and deployed as a live **Streamlit** app on Streamlit Cloud. Classifies panel conditions from raw images with a clean visual dashboard.
->
-> `ResNet50` `TensorFlow` `Keras` `OpenCV` `Transfer Learning` `Streamlit` `Image Classification`
-
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                   CURRENT LEARNING FOCUS                           -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## 📖 &nbsp; Current Learning Focus
-
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  LangGraph & Multi-Agent Systems       80%
-▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░  Retrieval-Augmented Generation (RAG)  65%
-▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░  Machine Learning (Classical + Tree)   60%
-▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░  Deep Learning & Computer Vision       50%
-▓▓▓▓▓▓▓▓░░░░░░░░░░░░  FastAPI & Backend for AI              40%
-▓▓▓▓▓▓░░░░░░░░░░░░░░  Generative AI & Prompt Engineering    30%
-```
-
-> 🎯 **Currently seeking:** Remote AI/ML Internships &nbsp;|&nbsp; Open to collaborations on AI & Data Science projects
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                      GITHUB ANALYTICS                              -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## 📊 &nbsp; GitHub Analytics
+## 📖 Current Learning Focus
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=paras-the-coder&show_icons=true&theme=transparent&bg_color=0d0a1e&title_color=c4b5fd&text_color=ddd6fe&icon_color=7c3aed&border_color=4c1d95&border_radius=12&include_all_commits=true&count_private=true&hide_border=false" height="180" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paras-the-coder&layout=compact&theme=transparent&bg_color=0d0a1e&title_color=c4b5fd&text_color=ddd6fe&icon_color=7c3aed&border_color=4c1d95&border_radius=12&langs_count=8" height="180" />
+| Skill | Progress |
+|:---|:---|
+| 🔗 LangGraph & Multi-Agent Systems | `████████████████░░░░` 80% |
+| 📚 Retrieval-Augmented Generation | `█████████████░░░░░░░` 65% |
+| 🤖 Machine Learning (Classical + Tree) | `████████████░░░░░░░░` 60% |
+| 👁️ Deep Learning & Computer Vision | `██████████░░░░░░░░░░` 50% |
+| ⚡ FastAPI & AI Backend Development | `████████░░░░░░░░░░░░` 40% |
+| 🔮 Generative AI & Prompt Engineering | `██████░░░░░░░░░░░░░░` 30% |
+
+</div>
+
+> 🎯 **Currently seeking:** Remote AI/ML Internships &nbsp;•&nbsp; Open to project collaborations
+
+<br/>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=paras-the-coder&show_icons=true&theme=transparent&bg_color=0d0a1e&title_color=c4b5fd&text_color=ddd6fe&icon_color=7c3aed&border_color=4c1d95&border_radius=12&include_all_commits=true&count_private=true" />
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paras-the-coder&layout=compact&theme=transparent&bg_color=0d0a1e&title_color=c4b5fd&text_color=ddd6fe&icon_color=7c3aed&border_color=4c1d95&border_radius=12&langs_count=8" />
 
 <br/><br/>
 
@@ -233,86 +207,76 @@ class Paras:
 
 </div>
 
+<br/>
+
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                      GITHUB TROPHIES                               -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## 🏆 &nbsp; GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=paras-the-coder&theme=discord&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=paras-the-coder&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 
 </div>
 
+<br/>
+
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    CONTRIBUTION ACTIVITY                           -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## 📈 &nbsp; Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=paras-the-coder&bg_color=0d0a1e&color=c4b5fd&line=7c3aed&point=a78bfa&area=true&area_color=4c1d95&hide_border=false&border_color=4c1d95&radius=12&title_color=ddd6fe" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=paras-the-coder&bg_color=0d0a1e&color=c4b5fd&line=7c3aed&point=a78bfa&area=true&area_color=4c1d95&hide_border=true&radius=8&title_color=c4b5fd" width="96%" />
 
 </div>
 
+<br/>
+
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                      SNAKE ANIMATION                               -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## 🐍 &nbsp; Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paras-the-coder/paras-the-coder/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paras-the-coder/paras-the-coder/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/paras-the-coder/paras-the-coder/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/paras-the-coder/paras-the-coder/output/github-contribution-grid-snake-dark.svg" width="96%" />
 </picture>
 
 </div>
 
+<br/>
+
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                          CONNECT                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## 👋 &nbsp; Connect With Me
+## 👋 Connect With Me
 
 <div align="center">
 
 <a href="https://linkedin.com/in/paras-khutwad-266110344">
   <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/paras-the-coder">
   <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-6d28d9?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b" />
 </a>
 
 <br/><br/>
 
-> 💬 **Open to:** AI/ML Internship Opportunities &nbsp;•&nbsp; Project Collaborations &nbsp;•&nbsp; Learning Discussions
+💬 **Open to:** AI/ML Internship Opportunities &nbsp;•&nbsp; Project Collaborations &nbsp;•&nbsp; Learning Discussions
 
 </div>
 
----
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                           FOOTER                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=99999&color=6d28d9&center=true&vCenter=true&repeat=false&width=700&height=40&lines=Building+one+model+at+a+time+%E2%80%94+from+statistics+to+intelligence." alt="footer" />
+*Building one model at a time — from statistics to intelligence.*
 
-![footer-line](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=4c1d95&center=true&vCenter=true&repeat=false&width=900&height=16&lines=.)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=99999&color=4c1d95&center=true&vCenter=true&repeat=false&width=900&height=20&lines=+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80" alt="divider" />
 
 </div>
