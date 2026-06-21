@@ -23,7 +23,7 @@
 
 ---
 
-## 🎓 About Me
+##  About Me
 
 ```python
 class Paras:
@@ -54,7 +54,7 @@ class Paras:
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -96,18 +96,18 @@ class Paras:
 
 ---
 
-## 🧠 AI / ML Learning Areas
+##  AI / ML Learning Areas
 
 <div align="center">
 
 | Domain | What I'm Exploring |
 |:---|:---|
-| 🤖 **Agentic AI** | LangGraph state machines, multi-agent orchestration, self-critique loops |
-| 📚 **RAG Systems** | Hybrid retrieval, vector search, Pinecone, semantic chunking |
-| 🧠 **Machine Learning** | Classification, SMOTE, XGBoost, explainability with SHAP |
-| 👁️ **Computer Vision** | CNNs, ResNet50, transfer learning, defect detection pipelines |
-| 🔮 **Generative AI** | LLM integration, Groq inference, prompt engineering |
-| 📊 **Predictive Analytics** | Risk scoring, fraud detection, feature engineering |
+|  **Agentic AI** | LangGraph state machines, multi-agent orchestration, self-critique loops |
+|  **RAG Systems** | Hybrid retrieval, vector search, Pinecone, semantic chunking |
+|  **Machine Learning** | Classification, SMOTE, XGBoost, explainability with SHAP |
+|  **Computer Vision** | CNNs, ResNet50, transfer learning, defect detection pipelines |
+|  **Generative AI** | LLM integration, Groq inference, prompt engineering |
+|  **Predictive Analytics** | Risk scoring, fraud detection, feature engineering |
 
 </div>
 
@@ -115,7 +115,7 @@ class Paras:
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -125,7 +125,7 @@ class Paras:
 
 </div>
 
-**🧠 Agentic Hybrid RAG Assistant** — *My most technically differentiated project*
+** Agentic Hybrid RAG Assistant** — *My most technically differentiated project*
 
 An agentic retrieval system built with **LangGraph** that goes beyond standard RAG. Features a **self-critique loop** that evaluates its own answers before returning them, **hybrid retrieval** (dense + sparse), **Pinecone** vector storage, **Tavily** live web-search fallback, **Groq Llama-3.3-70B** inference, and a **FastAPI + SSE streaming** backend. Supports multiple documents with persistent memory across turns.
 
@@ -141,7 +141,7 @@ An agentic retrieval system built with **LangGraph** that goes beyond standard R
 
 </div>
 
-**🛡️ FraudGuard AI** — *Insurance fraud detection with ML explainability*
+** FraudGuard AI** — *Insurance fraud detection with ML explainability*
 
 A fraud detection system trained on insurance claims data. Implements **XGBoost** and **Logistic Regression** with **SMOTE** for class imbalance, real **SHAP explainability** to surface which features drive each prediction, a **risk scoring engine**, and an interactive **Streamlit dashboard**.
 
@@ -157,7 +157,7 @@ A fraud detection system trained on insurance claims data. Implements **XGBoost*
 
 </div>
 
-**☀️ Solar Panel Defect Classification** — *Computer Vision for clean energy*
+** Solar Panel Defect Classification** — *Computer Vision for clean energy*
 
 A CNN-based image classification system that detects defects in solar panels using **transfer learning with ResNet50**. Built on **TensorFlow/Keras**, preprocessed with **OpenCV**, deployed live on **Streamlit Cloud**.
 
@@ -167,7 +167,7 @@ A CNN-based image classification system that detects defects in solar panels usi
 
 ---
 
-## 📖 Current Learning Focus
+##  Current Learning Focus
 
 <div align="center">
 
@@ -187,7 +187,7 @@ Currently Learning:
 
 ---
 
-## 🎯 Current Goal
+##  Current Goal
 
 <div align="center">
 
@@ -201,13 +201,13 @@ Current Goal:
 
 </div>
 
-> 🎯 **Currently seeking:** Remote AI/ML Internships &nbsp;•&nbsp; Open to project collaborations
+>  **Currently seeking:** Remote AI/ML Internships &nbsp;•&nbsp; Open to project collaborations
 
 <br/>
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -225,7 +225,7 @@ Current Goal:
 
 ---
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
 
@@ -237,7 +237,7 @@ Current Goal:
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
 
@@ -253,7 +253,7 @@ Current Goal:
 
 ---
 
-## 👋 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
